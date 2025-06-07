@@ -77,8 +77,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-![Mintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINTU296\&show_icons=true\&theme=radical)
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=MINTU296\&include_all_commits=true\&show_icons=true\&theme=radical)
 
 ---
