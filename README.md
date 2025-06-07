@@ -30,7 +30,7 @@
 ## 🎓 Education
 
 **Indian Institute of Information Technology Delhi**
-*B.Tech, Electronic & VLSI Engineering (2022 – 2026)*  • **CGPA 7.01/10**
+*B.Tech, Electronic & VLSI Engineering (2022 – 2026)* 
 
 ---
 
