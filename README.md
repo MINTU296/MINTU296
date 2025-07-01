@@ -2,9 +2,9 @@
 
 ### Final‑year B.Tech Student • Electronic & VLSI Engineering • IIIT‑Delhi
 
-🔭 **Interests:** Digital & Analog VLSI • FPGA/HLS • Embedded & Robotics • Full‑Stack Web • Machine Learning
+🔭 **Interests:** Digital & Analog VLSI • FPGA/HLS • Embedded & Robotics • Full‑Stack Web
 🚀 **Currently building:** Multi‑robot path‑planning pipelines in ROS & end‑to‑end web apps with React/Node
-🏆 **Competitive programmer:** 300‑plus problems on LeetCode & Codeforces
+🏆 **Competitive programmer:** 200‑plus problems on LeetCode & Codeforces
 
 ---
 
