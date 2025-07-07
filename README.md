@@ -4,7 +4,7 @@
 
 🔭 **Interests:** Digital & Analog VLSI • FPGA/HLS • Embedded & Robotics • Full‑Stack Web
 🚀 **Currently building:** Multi‑robot path‑planning pipelines in ROS & end‑to‑end web apps with React/Node
-🏆 **Competitive programmer:** 200‑plus problems on LeetCode & Codeforces
+🏆 **Competitive programmer:** 200+ problems on LeetCode & Codeforces
 
 ---
 
