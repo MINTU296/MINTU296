@@ -1,92 +1,55 @@
-# 👋 Hi, I’m **Mintu Kumar**
+# Hi, I'm Mintu Kumar 👋
 
-### Final‑year B.Tech Student • Electronic & VLSI Engineering • IIIT‑Delhi
+### AI/LLM Engineer · Backend Engineer · Production Agent Systems
 
-🔭 **Interests:** Digital & Analog VLSI • FPGA/HLS • Embedded & Robotics • Full‑Stack Web
-🚀 **Currently building:** Multi‑robot path‑planning pipelines in ROS & end‑to‑end web apps with React/Node
-🏆 **Competitive programmer:** 200+ problems on LeetCode & Codeforces
+I build reliable AI workflows and backend services with **Python, FastAPI, LangGraph, RAG, OpenSearch, and AWS**.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mintu-k-546491420/)
+![Profile Views](https://komarev.com/ghpvc/?username=MINTU296&color=2563eb&style=flat)
 
-## 🛠️ Tech Toolbox
+## About me
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B\&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react\&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&style=for-the-badge)
-![ROS](https://img.shields.io/badge/ROS-DARK?logo=ros\&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks\&style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado-FFB500?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&style=for-the-badge)
+- Former **SDE Intern at Mindtickle**, working on production-grade AI and backend systems
+- Built asynchronous, multi-agent LLM workflows for enterprise sales intelligence
+- Designed retrieval and automation pipelines with LangGraph, OpenSearch, and human review
+- Interested in **AI Engineer, LLM Engineer, Applied AI, and Backend Engineer** opportunities
+- B.Tech in Electronics and VLSI Engineering at **IIIT-Delhi** (2022–2026)
 
----
+## Recent engineering work
 
-## 🎓 Education
+### CallSignal — AI deal intelligence
+- Built an asynchronous **5-agent LLM pipeline** in Python
+- Extracted deal intelligence across **13 dimensions** from sales transcripts
+- Added provider-agnostic support for OpenAI GPT and AWS Bedrock
+- Improved reliability with caching, rate limiting, human review, and automated reporting
 
-**Indian Institute of Information Technology Delhi**
-*B.Tech, Electronic & VLSI Engineering (2022 – 2026)* 
+### Hermes — automated ticket resolution
+- Designed a **60+ node LangGraph workflow**
+- Implemented intent classification, user validation, and RAG over OpenSearch
+- Built async FastAPI services with SQLAlchemy 2.0
+- Integrated Snowflake, Mixpanel, Atlassian, and MCP-based tools
 
----
+## Tech stack
 
-## 💼 Experience
+**AI/LLM:** LangGraph · LangChain · RAG · OpenAI GPT · AWS Bedrock · OpenSearch · Vector Databases · MCP  
+**Backend:** Python · FastAPI · SQLAlchemy · REST APIs · Microservices · AsyncIO · JWT · OAuth  
+**Data:** MySQL · SQLite · MongoDB · Redis · Snowflake · Pinecone  
+**Cloud & Tools:** AWS · Docker · Linux · Git · GitHub · GitLab  
+**Frontend:** JavaScript · React · React Native
 
-| Period                  | Role & Org                                      | Tech                    | Highlights                                                                                                                            |
-| ----------------------- | ----------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nov 2024 – Jan 2025** | **Path‑Planning Algorithms – Research Project** | ROS, Gazebo, C++/Python | Implemented A\* & Dijkstra for multi‑robot systems; cut route‑calc time 25% & boosted reliability via optimized pub‑sub architecture. |
-| **May 2024 – Jul 2024** | **Web Developer – CILAB‑HITD**                  | WordPress, JS, SEO      | Built lab website; performance tweaks sped loads 40% & grew engagement 15%.                                                           |
-| **Dec 2023 – Jan 2024** | **Freelance Web Dev – Schyog Sowa Sanstha**     | WordPress               | Launched donation‑enabled site; online contributions up 25%.                                                                          |
+## Selected public projects
 
----
+- [VistaCare](https://github.com/MINTU296/Vistacare.com) — full-stack retail and database project
+- [CO-Project](https://github.com/MINTU296/CO-Project) — Python engineering project
+- [Robotic-Arm](https://github.com/MINTU296/Robotic-Arm) — robotics project in C++
 
-## 🚀 Selected Projects
+## GitHub activity
 
-| Year | Project                                                                     | Stack                            | What I did                                                                                                     |
-| ---- | --------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 2025 | **Vista Care** <sub>[repo](https://github.com/MINTU296/Vistacare.com)</sub> | React, Node, SQL                 | Scalable online retail store; query tuning ↑ backend efficiency 25%, checkout steps ↓ 5→3 (↑ conversions 10%). |
-| 2025 | **Hotel Booking (Airbnb clone)**                                            | MERN                             | Auth, reservations, CI/CD with Vercel & Netlify; DB latency optimized.                                         |
-| 2024 | **IEEE 802.11a SDR Transceiver**                                            | C/C++, MATLAB, Vivado + ZedBoard | Designed & simulated full OFDM PHY incl. CFO/AGC; analysed BER/EVM; accelerated critical paths in PL.          |
-| 2024 | **32‑bit ALU – RTL→GDS**                                                    | Verilog, Yosys, Innovus          | Synthesis, P\&R, STA, DRC/LVS clean GDSII meeting timing/power/area targets.                                   |
+![Mintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINTU296&show_icons=true&theme=transparent&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MINTU296&layout=compact&theme=transparent&hide_border=true)
 
-<details>
-<summary>More hardware projects…</summary>
+## Let's connect
 
-* **AOI33 Complex vs. Non‑complex Gate Layouts (65 nm)** – Compared delay/area trade‑offs.
-* **8T 2‑RW SRAM Array (65 nm)** – Custom I/O, precharge & write drivers meeting PVT corner specs.
+I'm open to collaborating on AI agents, RAG systems, and scalable backend services.
 
-</details>
-
----
-
-## 🏆 Achievements
-
-* **All India Rank 20**, *Naukri Campus Engineer’s Ring of Honour* (2025)
-
----
-
-## 👥 Positions of Responsibility
-
-* Sponsorship Member – **E‑Cell, IIIT‑Delhi** (Dec 2023 – Aug 2024)
-* Organising Committee – **Odyssey Cultural Fest** (Dec 2023 – Jan 2024)
-
----
-
-## 📈 GitHub Stats
-![Total Commits](https://github-readme-stats.vercel.app/api?username=MINTU296\&include_all_commits=true\&show_icons=true\&theme=radical)
-
----
-
-## 🌐 Find Me On
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/mintu-kumar-a748a325b/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&style=for-the-badge)](https://leetcode.com/u/mintu_m07/) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces\&style=for-the-badge)](https://codeforces.com/profile/mintu_007/) 
-
----
-
-> “Imagination is more important than knowledge.” – *Albert Einstein*
+[LinkedIn](https://www.linkedin.com/in/mintu-k-546491420/) · [GitHub](https://github.com/MINTU296)
