@@ -5,7 +5,7 @@
 I build reliable AI workflows and backend services with **Python, FastAPI, LangGraph, RAG, OpenSearch, and AWS**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mintu-k-546491420/)
-![Profile Views](https://komarev.com/ghpvc/?username=MINTU296&color=2563eb&style=flat)
+
 
 ## About me
 
