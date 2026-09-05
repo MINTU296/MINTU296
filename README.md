@@ -37,15 +37,13 @@ I build reliable AI workflows and backend services with **Python, FastAPI, LangG
 **Cloud & Tools:** AWS · Docker · Linux · Git · GitHub · GitLab  
 **Frontend:** JavaScript · React · React Native
 
-## Selected public projects
-
-- [VistaCare](https://github.com/MINTU296/Vistacare.com) — full-stack retail and database project
-- [CO-Project](https://github.com/MINTU296/CO-Project) — Python engineering project
-- [Robotic-Arm](https://github.com/MINTU296/Robotic-Arm) — robotics project in C++
-
 ## GitHub activity
 
-Explore my repositories and contribution history below for recent work.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MINTU296/MINTU296/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MINTU296/MINTU296/output/github-contribution-grid-snake.svg">
+  <img alt="Mintu Kumar's GitHub contribution snake" src="https://raw.githubusercontent.com/MINTU296/MINTU296/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Let's connect
 
