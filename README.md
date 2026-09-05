@@ -45,8 +45,7 @@ I build reliable AI workflows and backend services with **Python, FastAPI, LangG
 
 ## GitHub activity
 
-![Mintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINTU296&show_icons=true&theme=transparent&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MINTU296&layout=compact&theme=transparent&hide_border=true)
+Explore my repositories and contribution history below for recent work.
 
 ## Let's connect
 
